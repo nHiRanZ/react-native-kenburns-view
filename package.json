@@ -1,0 +1,23 @@
+{
+  "name": "react-native-kenburns-view",
+  "version": "0.0.1",
+  "description": "KenBurns Image Effect for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nHiRanZ/react-native-kenburns-view.git"
+  },
+  "keywords": [
+    "react-native",
+    "kenburns"
+  ],
+  "author": "Nimila Hiranya Samarasinghe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nHiRanZ/react-native-kenburns-view/issues"
+  },
+  "homepage": "https://github.com/nHiRanZ/react-native-kenburns-view#readme"
+}
