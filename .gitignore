@@ -1,1 +1,8 @@
-# Created by .ignore support plugin (hsz.mobi)
+# IDEA Files
+.idea/.name
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/react-native-kenburns-view.iml
+.idea/workspace.xml
+.idea
