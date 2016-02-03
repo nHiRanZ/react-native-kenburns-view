@@ -1,7 +1,7 @@
 # react-native-kenburns-view
 
 [`KenBurns`](https://en.wikipedia.org/wiki/Ken_Burns_effect) Image Effect for React Native. Based on Image Component [`Image` Component](https://facebook.github.io/react-native/docs/image.html).
-Version: 0.0.2
+Version: 0.0.3
 
 Tested on React Native iOS Apps only.
 
