@@ -3,7 +3,7 @@
 [`KenBurns`](https://en.wikipedia.org/wiki/Ken_Burns_effect) Image Effect for React Native. Based on Image Component [`Image` Component](https://facebook.github.io/react-native/docs/image.html).
 Version: 0.0.3
 
-Tested on React Native iOS Apps only.
+Tested on React Native 0.22.2 iOS and Android.
 
 ## Installation
 
@@ -20,7 +20,7 @@ Go to `react-native-kenburns-view/example/KenBurnsExample` to view the example.
 ## Usage
 
 ```jsx
-<BurnsImage tension={4} friction={50} imageWidth={200} imageHeight={100} sourceUri={{uri: ./images/kenburnsimage.jpg}} placeholderSource={{uri: './images/placeholder.jpg'}}>
+<BurnsImage tension={4} friction={50} imageWidth={200} imageHeight={100} sourceUri={require(./images/kenburnsimage.jpg)} placeholderSource={require( './images/placeholder.jpg')}>
 </BurnsImage>
 ```
 
