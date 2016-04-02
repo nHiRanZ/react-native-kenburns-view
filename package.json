@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/nHiRanZ/react-native-kenburns-view/issues"
   },
-  "homepage": "https://github.com/nHiRanZ/react-native-kenburns-view#readme"
+  "homepage": "https://github.com/nHiRanZ/react-native-kenburns-view#readme",
+  "peerDependencies": {
+    "react-native": "*"
+  }
 }
