@@ -3,11 +3,15 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "react-native start"
+    "start": "react-native start",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "dependencies": {
     "react": "^0.14.8",
-    "react-native": "^0.22.2",
-    "react-native-kenburns-view": "file:../../"
-  }
+    "react-native": "^0.39.1",
+    "react-native-kenburns-view": "file:../../",
+    "snyk": "^1.85.0"
+  },
+  "snyk": true
 }
