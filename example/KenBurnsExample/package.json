@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "react": "^0.14.8",
-    "react-native": "^0.39.1",
+    "react-native": "^0.56.0",
     "react-native-kenburns-view": "file:../../",
     "snyk": "^1.88.0"
   },
