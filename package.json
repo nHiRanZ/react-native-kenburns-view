@@ -1,6 +1,6 @@
 {
   "name": "react-native-kenburns-view",
-  "version": "0.0.4",
+  "version": "2.0",
   "description": "KenBurns Image Effect for React Native",
   "main": "index.js",
   "scripts": {
@@ -25,5 +25,11 @@
   },
   "directories": {
     "example": "example"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0",
+    "react-mixin": "2",
+    "react-timer-mixin": "^0.13.3",
+    "rebound": "^0.0.15"
   }
 }
