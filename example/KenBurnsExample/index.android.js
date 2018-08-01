@@ -3,7 +3,7 @@
  * Created by Nimila Hiranya Samarasinghe
  * Links: https://github.com/nHiRanZ
  *
- * Version: 1.0.0
+ * Version: 2.0.1
  *
  * Description: This reflects the KenBurns effect in a React Native Image
  */
