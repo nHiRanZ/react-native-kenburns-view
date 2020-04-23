@@ -7,6 +7,12 @@ Tested on React Native 0.40+ iOS and Android.
 
 ## Installation
 
+Note: Requires React Timeout. If it's not available, install it from the command below.
+```bash
+$ npm i react-timeout --save
+```
+
+The proceed to install the library
 ```bash
 $ npm i react-native-kenburns-view --save
 ```
@@ -34,6 +40,7 @@ Go to `react-native-kenburns-view/example/KenBurnsExample` to view the example.
 |**`imageHeight`**| `int` Image Height. |
 |**`sourceUri`**| `URI String` Image URL. |
 |**`placeholderSource`**| `URI String` Placeholder Image URL (Possibly a Local Image). |
+|**`autoStart`**| `boolean` Autostarts the animation. |
 
 ## npm
 
