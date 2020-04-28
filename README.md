@@ -1,9 +1,9 @@
 # react-native-kenburns-view [![npm version](https://badge.fury.io/js/react-native-kenburns-view.svg)](https://badge.fury.io/js/react-native-kenburns-view)
 
 [`KenBurns`](https://en.wikipedia.org/wiki/Ken_Burns_effect) Image Effect for React Native. Based on Image Component [`Image` Component](https://facebook.github.io/react-native/docs/image.html).
-Version: 3.0.0
+Version: 4.1.0
 
-Tested on React Native 0.40+ iOS and Android.
+Tested on React Native 0.62.2 iOS and Android.
 
 ## Installation
 
