@@ -1,5 +1,5 @@
 # react-native-kenburns-view 
-<p align="center">
+<p align="left">
   <a href="http://opensource.org/licenses/ISC">
     <img src="https://img.shields.io/badge/license-ISC-blue.svg" alt="react-native-kenburns-view is released under the ISC license." />
   </a>
