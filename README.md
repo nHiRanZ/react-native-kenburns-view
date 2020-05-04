@@ -1,4 +1,15 @@
-# react-native-kenburns-view [![npm version](https://badge.fury.io/js/react-native-kenburns-view.svg)](https://badge.fury.io/js/react-native-kenburns-view)
+# react-native-kenburns-view 
+<p align="center">
+  <a href="http://opensource.org/licenses/ISC">
+    <img src="https://img.shields.io/badge/license-ISC-blue.svg" alt="react-native-kenburns-view is released under the ISC license." />
+  </a>
+  <a href="https://www.npmjs.com/package/react-native-kenburns-view">
+    <img src="https://badge.fury.io/js/react-native-kenburns-view.svg" alt="Current npm package version." />
+  </a>
+  <a href="https://twitter.com/intent/follow?screen_name=nHiRanZ">
+    <img src="https://img.shields.io/twitter/follow/nHiRanZ.svg?label=Follow%20@nHiRanZ" alt="Follow @nHiRanZ" />
+  </a>
+</p>
 
 [`KenBurns`](https://en.wikipedia.org/wiki/Ken_Burns_effect) Image Effect for React Native. Based on Image Component [`Image` Component](https://facebook.github.io/react-native/docs/image.html).
 Version: 4.1.0
