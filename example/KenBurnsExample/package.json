@@ -9,7 +9,7 @@
     "prepare": "npm run snyk-protect"
   },
   "dependencies": {
-    "react": "16.4.1",
+    "react": "16.5.0",
     "react-native": "0.62.0",
     "react-native-kenburns-view": "file:../../",
     "snyk": "^1.316.1"
