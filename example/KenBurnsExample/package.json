@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "react": "16.4.1",
-    "react-native": "0.62.0",
+    "react-native": "0.64.1",
     "react-native-kenburns-view": "file:../../",
     "snyk": "^1.316.1"
   },
