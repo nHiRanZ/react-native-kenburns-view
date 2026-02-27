@@ -26,7 +26,7 @@ $ npm i react-native-kenburns-view --save
 
 ## Demo/Example
 
-![kenburns view demo](https://media.giphy.com/media/xTcnT8ju8pHKhIZY9G/giphy.gif)
+![kenburns view demo](https://media.giphy.com/media/792gUTkm8Gic8AieQl/giphy.gif)
 
 Run the example app (Expo) from `example/kenburns-example`: `cd example/kenburns-example && npm install && npx expo start`.
 
