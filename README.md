@@ -9,12 +9,15 @@
   <a href="https://twitter.com/intent/follow?screen_name=nHiRanZ">
     <img src="https://img.shields.io/twitter/follow/nHiRanZ.svg?label=Follow%20@nHiRanZ" alt="Follow @nHiRanZ" />
   </a>
+  <a href="https://nimila.online">
+    <img src="https://img.shields.io/badge/website-nimila.online-blue" alt="Website" />
+  </a>
 </p>
 
 [`KenBurns`](https://en.wikipedia.org/wiki/Ken_Burns_effect) Image Effect for React Native. Now implemented with the modern `Animated` API, supporting both smooth **zoom** and **pan**.
-Version: 4.1.0
+Version: 5.0.0
 
-Tested on React Native 0.62.2 iOS and Android.
+Tested on React Native 0.76.5 iOS and Android.
 
 ## Installation
 ```bash
@@ -70,5 +73,7 @@ Link: [`react-native-kenburns-view on npm`](https://www.npmjs.com/package/react-
 
 ## Feedback
 
-Email: nimilahiran@gmail.com
-Twitter: [`nHiRanZ on Twitter`](https://twitter.com/nHiRanZ)
+Website: [nimila.online](https://nimila.online)  
+Email: nimilahiran@gmail.com  
+Twitter: [@nHiRanZ](https://twitter.com/nHiRanZ)
+
