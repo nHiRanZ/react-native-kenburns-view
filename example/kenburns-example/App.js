@@ -7,11 +7,11 @@ const { width } = Dimensions.get('window');
 const CARD_HEIGHT = 220;
 
 const IMAGES = [
-  require('./assets/images/image1.jpg'),
-  require('./assets/images/image2.jpg'),
-  require('./assets/images/image3.jpg'),
+  { uri: 'https://i.ibb.co/pjVgZTnf/image1.jpg' },
+  { uri: 'https://i.ibb.co/39n0tghZ/image2.jpg' },
+  { uri: 'https://i.ibb.co/YBcr2vHf/image3.jpg' },
 ];
-const PLACEHOLDER = require('./assets/images/placeholder.jpg');
+const PLACEHOLDER = { uri: 'https://i.ibb.co/21NytpJN/placeholder.jpg' };
 
 export default function App() {
   return (

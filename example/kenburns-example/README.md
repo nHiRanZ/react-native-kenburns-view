@@ -17,4 +17,4 @@ If you see "Unable to resolve module" for the library, restart with a clean cach
 ## Notes
 
 - The library is linked via `"react-native-kenburns-view": "file:../.."`.
-- Sample images are in `assets/images/` (image1–3 and placeholder).
+- Sample images are loaded from remote URLs (see `App.js`).
