@@ -20,7 +20,7 @@
 
 **Lightweight:** No native code or custom native modules. It uses only React Native’s built-in `Animated` API and core components, so it works with standard RN and Expo and adds minimal bundle size. Each instance uses randomized timing and pan direction so multiple images don’t move in lockstep.
 
-Version: 5.1.0
+Version: 5.1.1
 
 ## Supported React Native versions
 

@@ -1,6 +1,6 @@
 {
   "name": "react-native-kenburns-view",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "KenBurns Image Effect for React Native",
   "main": "index.js",
   "scripts": {
