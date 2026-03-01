@@ -14,10 +14,22 @@
   </a>
 </p>
 
-[`KenBurns`](https://en.wikipedia.org/wiki/Ken_Burns_effect) Image Effect for React Native. Now implemented with the modern `Animated` API, supporting both smooth **zoom** and **pan**.
-Version: 5.0.0
+## About
 
-Tested on React Native 0.76.5 iOS and Android.
+[**Ken Burns effect**](https://en.wikipedia.org/wiki/Ken_Burns_effect)—the slow zoom and pan over still images—for React Native. Drop in a single component, pass an image and size, and get a smooth, cinematic motion that’s great for hero images, galleries, or slideshows.
+
+**Lightweight:** No native code or custom native modules. It uses only React Native’s built-in `Animated` API and core components, so it works with standard RN and Expo and adds minimal bundle size. Each instance uses randomized timing and pan direction so multiple images don’t move in lockstep.
+
+Version: 5.1.0
+
+## Supported React Native versions
+
+This library uses only React Native’s built-in `Animated` API and core components (`View`, `ImageBackground`). It has **no native code** and no custom native modules.
+
+- **Compatible with:** React Native **0.76+** (and earlier 0.7x / 0.6x in practice).
+- **Tested with:** React Native **0.76.x** and **0.83.x** (Expo SDK 52 and 55) on iOS and Android.
+
+If you use Expo, the example app runs on **Expo SDK 55** (React Native 0.83.2).
 
 ## Installation
 ```bash
