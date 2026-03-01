@@ -1,32 +1,20 @@
 # Ken Burns Example
 
-Example app for `react-native-kenburns-view` using Expo.
+Expo app that demonstrates `react-native-kenburns-view` with sample images (zoom + pan).
 
 ## Run
 
-From this folder:
-
 ```bash
+cd example/kenburns-example
 npm install
-```
-
-**Option A – development build (iOS simulator):**
-
-```bash
-npx expo run:ios
-```
-
-**Option B – Expo Go (no native build):**
-
-```bash
 npx expo start
 ```
 
-Then scan the QR code or press `i` / `a` for simulator.
+Then press `i` for iOS simulator or `a` for Android emulator, or scan the QR code with Expo Go.
 
-If you see "Unable to resolve module react-native-kenburns-view", clear Metro’s cache and try again: `npx expo start --clear` (then run `npx expo run:ios` in another terminal, or run `expo run:ios` after the dev server is up).
+If you see "Unable to resolve module" for the library, restart with a clean cache: `npx expo start --clear`.
 
 ## Notes
 
 - The library is linked via `"react-native-kenburns-view": "file:../.."`.
-- Test images are in `assets/images/` (image1–3 and placeholder).
+- Sample images are in `assets/images/` (image1–3 and placeholder).

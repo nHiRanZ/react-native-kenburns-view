@@ -75,5 +75,5 @@ Link: [`react-native-kenburns-view on npm`](https://www.npmjs.com/package/react-
 
 Website: [nimila.online](https://nimila.online)  
 Email: nimilahiran@gmail.com  
-Twitter: [@nHiRanZ](https://twitter.com/nHiRanZ)
+X/Twitter: [@nHiRanZ](https://twitter.com/nHiRanZ)
 

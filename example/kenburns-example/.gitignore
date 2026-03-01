@@ -28,3 +28,8 @@ yarn-error.*
 
 # Local
 .env*.local
+
+# IDE
+.vscode/
+.cursor/
+.idea/

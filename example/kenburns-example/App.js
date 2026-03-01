@@ -18,7 +18,7 @@ export default function App() {
     <View style={styles.container}>
       <StatusBar style="light" />
       <Text style={styles.title}>Ken Burns Effect</Text>
-      <Text style={styles.subtitle}>Zoom + pan animation</Text>
+      <Text style={styles.subtitle}>Zoom + pan</Text>
       <ScrollView
         style={styles.scroll}
         contentContainerStyle={styles.scrollContent}
