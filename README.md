@@ -20,7 +20,9 @@
 
 **Lightweight:** No native code or custom native modules. It uses only React Native’s built-in `Animated` API and core components, so it works with standard RN and Expo and adds minimal bundle size. Each instance uses randomized timing and pan direction so multiple images don’t move in lockstep.
 
-Version: 5.1.1
+For the **React (web)** version of this effect, see [react-kenburns-view](https://github.com/nHiRanZ/react-kenburns-view).
+
+Version: 5.2.0
 
 ## Supported React Native versions
 
