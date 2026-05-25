@@ -22,7 +22,7 @@
 
 For the **React (web)** version of this effect, see [react-kenburns-view](https://github.com/nHiRanZ/react-kenburns-view).
 
-Version: 5.2.0
+Version: 5.3.0
 
 ## Supported React Native versions
 
@@ -31,18 +31,18 @@ This library uses only React Native’s built-in `Animated` API and core compone
 - **Compatible with:** React Native **0.76+** (and earlier 0.7x / 0.6x in practice).
 - **Tested with:** React Native **0.76.x** and **0.83.x** (Expo SDK 52 and 55) on iOS and Android.
 
-If you use Expo, the example app runs on **Expo SDK 55** (React Native 0.83.2).
+If you use Expo, the demo app runs on **Expo SDK 55** (React Native 0.83.2).
 
 ## Installation
 ```bash
 $ npm i react-native-kenburns-view --save
 ```
 
-## Demo/Example
+## Demo
 
 ![kenburns view demo](https://media.giphy.com/media/792gUTkm8Gic8AieQl/giphy.gif)
 
-Run the example app (Expo) from `example/kenburns-example`: `cd example/kenburns-example && npm install && npx expo start`.
+The interactive demo lives in [react-library-demos](https://github.com/nHiRanZ/react-library-demos) under [`react-native-kenburns-view/`](https://github.com/nHiRanZ/react-library-demos/tree/main/react-native-kenburns-view). See that folder's [README](https://github.com/nHiRanZ/react-library-demos/blob/main/react-native-kenburns-view/README.md) for setup (clone both repos as siblings, then `npm install` and `npm run dev`).
 
 ## Usage
 
